@@ -1,0 +1,19 @@
+container{
+    border:2px solid black;
+    width:20% ;
+    margin: 0 auto;
+    padding: 20px;
+
+}
+.todo{
+    border-bottom: 2px solid green;
+    border-top: 2px solid green;
+    display: flex;
+    justify-content: space-between;
+}
+.sec-B .todo .list{
+    display: flex;
+}
+.sec-A{
+    margin-bottom: 20px;
+}
